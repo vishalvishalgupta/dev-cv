@@ -12,7 +12,7 @@ A Print to PDF Friendly CV Template.
 1) run the 'npm start' command in the project root folder and wait for the website to load on http://localhost:3000
 3) Change the title tag in src/index.html (This will be the default file name when you print)
 4) Modify the data in public/cv.json
-5) Replace public/headshot.png with your own
+5) Replace public/headshot.jpg with your own
 6) Add more resources to the public folder and use them in public/cv.json
 7) Change the font in the src/index.html style tag to something more you. 
 8) Print to PDF with Google Chrome

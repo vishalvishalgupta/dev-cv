@@ -1,29 +1,29 @@
 {
   "brief": {
     "person": {
-      "name": "Eyal Perry",
+      "name": "Vishal Gupta",
       "title": "Full Stack Developer",
-      "residence": "Karmiel, Israel.",
+      "residence": "Indirapuram, Ghaziabad",
       "headshot": {
-        "source": "http://localhost:3000/headshot.png"
+        "source": "http://localhost:3000/headshot.jpg"
       },
-      "mobile": "+972-54-314-6808",
-      "skype": "e.perry.pa",
-      "email": "e.perry.pa@gmail.com"
+      "mobile": "+91-9870743900",
+      "skype": "vishal.vishal.gupta48@gmail.com",
+      "email": "vishal.vishal.gupta48@gmail.com"
     },
     "links": [
       {
-        "url": "https://www.linkedin.com/in/eyalperry/",
+        "url": "https://www.linkedin.com/in/vishalgupta/",
         "imageSource": "http://localhost:3000/linkedin.png",
         "imageAlt": "LinkedIn"
       },
       {
-        "url": "https://stackoverflow.com/story/eyal-perry",
+        "url": "https://stackoverflow.com/story/vishalvishalgupta",
         "imageSource": "http://localhost:3000/stackoverflow.png",
         "imageAlt": "StackOverflow"
       },
       {
-        "url": "https://github.com/EyalPerry",
+        "url": "https://github.com/vishalvishalgupta",
         "imageSource": "http://localhost:3000/github.svg",
         "imageAlt": "GitHub"
       }
